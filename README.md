@@ -1,5 +1,4 @@
-## Microsoft Foundry – AI Application and Agent Factory
-
+## Microsoft Foundry
 <img src="msfoundry.jpg">
 <br>
 <img src="msfoundry1.jpg">
