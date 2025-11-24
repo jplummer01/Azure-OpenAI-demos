@@ -188,6 +188,6 @@
 | --- | --- |
 | Name | Serge Retkowsky |
 | Created | 05 September 2023 |
-| Last updated | 09 September 2025 |
+| Last updated | 24 November 2025 |
 | Email | serge.retkowsky@microsoft.com |
 | LinkedIn | https://www.linkedin.com/in/serger/ |
