@@ -193,3 +193,4 @@ Microsoft Foundry unifies agents, models, and tools under a single management gr
 | Last updated | 24 November 2025 |
 | Email | serge.retkowsky@microsoft.com |
 | LinkedIn | https://www.linkedin.com/in/serger/ |
+| Medium publications | https://medium.com/me/stories?tab=posts-published |
