@@ -1,12 +1,14 @@
 ## Microsoft Foundry – AI Application and Agent Factory
 
-<img src="foundry_repo.jpg">
+<img src="msfoundry.jpg">
 <br>
-<img src="new foundry.png" width="600">
+<img src="msfoundry1.jpg">
+<br>
+<img src="msfoundry2.jpg">
+<br>
 
-[Azure AI Foundry portal](https://ai.azure.com/)
-<br><br>
-<img src="foundry_gui.jpg">
+[Microsoft Foundry portal](https://ai.azure.com/)
+
 <br>
 
 ---
