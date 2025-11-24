@@ -174,8 +174,8 @@
 
 | Item | Description | Link |
 | --- | --- | --- |
-| Azure AI Foundry – product page | Product overview, capabilities, and pricing. | https://azure.microsoft.com/en-us/products/ai-foundry/#AI-Foundry-Hero |
-| What is Azure AI Foundry? | Conceptual documentation and key architectural concepts. | https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry |
+| Microsoft Foundry – product page | Product overview, capabilities, and pricing. | https://azure.microsoft.com/en-us/products/ai-foundry/#AI-Foundry-Hero |
+| What is Microsoft Foundry? | Conceptual documentation and key architectural concepts. | https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry |
 
 ---
 
