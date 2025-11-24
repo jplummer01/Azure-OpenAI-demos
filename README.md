@@ -4,8 +4,6 @@
 <br>
 <img src="msfoundry1.jpg">
 <br>
-<img src="msfoundry2.jpg">
-<br>
 
 [Microsoft Foundry portal](https://ai.azure.com/)
 
