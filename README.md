@@ -16,7 +16,7 @@ Microsoft Foundry unifies agents, models, and tools under a single management gr
 
 ---
 
-## Latest Content (2025)
+## Latest Content
 
 ### New content (09 September 2025)
 
