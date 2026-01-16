@@ -18,6 +18,13 @@ Microsoft Foundry unifies agents, models, and tools under a single management gr
 
 ## Latest Content
 
+### New content (16 June 2026)
+
+| Item | Description | Link |
+| --- | --- | --- |
+| 🔥 Azure AI Agent MCP | Azure AI Agent with MCP connexion. | https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Mistral%20Document%20AI/Mistral%20Document%20AI%20with%20Azure%20AI%20Foundry.ipynb |
+
+
 ### New content (09 September 2025)
 
 | Item | Description | Link |
