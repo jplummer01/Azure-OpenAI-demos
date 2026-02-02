@@ -18,6 +18,13 @@ Microsoft Foundry unifies agents, models, and tools under a single management gr
 
 ## Latest Content
 
+### New content (02 February 2026)
+
+| Item | Description | Link |
+| --- | --- | --- |
+| 🔥 Azure Prices Fetcher | Azure API pricing. | https://github.com/retkowsky/Azure-AIGEN-demos/blob/main/Pricing/azure_prices_fetcher.ipynb |
+
+
 ### New content (27 January 2026)
 
 | Item | Description | Link |
@@ -205,7 +212,7 @@ Microsoft Foundry unifies agents, models, and tools under a single management gr
 | --- | --- |
 | Name | Serge Retkowsky |
 | Created | 05 September 2023 |
-| Last updated | 27 January 2026 |
+| Last updated | 2 February 2026 |
 | Email | serge.retkowsky@microsoft.com |
 | LinkedIn | https://www.linkedin.com/in/serger/ |
 | Medium publications | https://medium.com/@sergems18/ |
