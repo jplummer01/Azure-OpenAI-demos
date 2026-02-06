@@ -22,7 +22,7 @@ Microsoft Foundry unifies agents, models, and tools under a single management gr
 
 | Item | Description | Link |
 | --- | --- | --- |
-| 🔥 gpt-5.2 models | https://github.com/retkowsky/Azure-AIGEN-demos/blob/main/gpt-5.2/gpt52_models.ipynb|
+| 🔥 gpt-5.2 models | gpt-5.2 examples | https://github.com/retkowsky/Azure-AIGEN-demos/blob/main/gpt-5.2/gpt52_models.ipynb|
 
 ### New content (02 February 2026)
 
