@@ -33,3 +33,14 @@ This is a lightweight baseline that can be extended into production workflows (c
 - **Model settings**
   - `MODEL_NAME = "embed-v-4-0"`
   - `output_dimension` is set to **1536** (the notebook notes other allowed sizes)
+
+## Author
+
+| Field | Details |
+| --- | --- |
+| Name | Serge Retkowsky |
+| Created | 05 September 2023 |
+| Last updated | 6 February 2026 |
+| Email | serge.retkowsky@microsoft.com |
+| LinkedIn | https://www.linkedin.com/in/serger/ |
+| Medium publications | https://medium.com/@sergems18/ |
