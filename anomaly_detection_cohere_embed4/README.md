@@ -61,3 +61,12 @@ Typical use cases:
 - Start with a small validation set and adjust the **threshold**.
 - If you have multiple product families, consider building **separate baselines** per family.
 
+## Author
+
+| Field | Details |
+| --- | --- |
+| Name | Serge Retkowsky |
+| Created | 06 Feb 2026 |
+| Email | serge.retkowsky@microsoft.com |
+| LinkedIn | https://www.linkedin.com/in/serger/ |
+| Medium publications | https://medium.com/@sergems18/ |
