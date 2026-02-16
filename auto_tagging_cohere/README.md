@@ -1,4 +1,4 @@
-# Auto-Tagging Images with Cohere Embed 4 on Microsoft Foundry (Azure AI Foundry)
+# Auto-Tagging Images with Cohere Embed 4 on Microsoft Foundry
 
 This folder contains a Jupyter notebook that demonstrates **automatic image tagging** using **Cohere Embed v4** (multimodal embeddings) deployed through **Azure AI Foundry / Microsoft Foundry**.
 
