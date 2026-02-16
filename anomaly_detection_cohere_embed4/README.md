@@ -6,7 +6,7 @@ This demo shows how to perform **image anomaly detection** using **Cohere Embed 
 2. Generate embeddings for *new/inspection* images.
 3. Detect anomalies by comparing embedding distances (e.g., nearest-neighbor distance / similarity) and flagging images that are “far” from the normal distribution.
 
-<img src="screenshot.png">
+<img src="screenshot.jpg">
 
 Notebook:  
 `anomaly_detection_cohere_embed4/Image Anomaly Detection with Cohere Embed 4 on Azure AI Foundry.ipynb`
