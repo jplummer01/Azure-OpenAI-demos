@@ -39,8 +39,7 @@ This is a lightweight baseline that can be extended into production workflows (c
 | Field | Details |
 | --- | --- |
 | Name | Serge Retkowsky |
-| Created | 05 September 2023 |
-| Last updated | 6 February 2026 |
+| Created | 06 Feb 2026 |
 | Email | serge.retkowsky@microsoft.com |
 | LinkedIn | https://www.linkedin.com/in/serger/ |
 | Medium publications | https://medium.com/@sergems18/ |
