@@ -18,6 +18,13 @@ Microsoft Foundry unifies agents, models, and tools under a single management gr
 
 ## Latest Content
 
+### New content (16 February 2026)
+
+| Item | Description | Link |
+| --- | --- | --- |
+| 🔥 Image Anomaly Detection with Cohere Embed 4 on Azure AI Foundry | Image Anomaly Detection| https://github.com/retkowsky/Azure-AIGEN-demos/blob/main/anomaly_detection_cohere_embed4/Image%20Anomaly%20Detection%20with%20Cohere%20Embed%204%20on%20Azure%20AI%20Foundry.ipynb
+| 🔥 Auto-Tagging Images with Cohere Embed 4 on Microsoft Foundry | Auto tagging | https://github.com/retkowsky/Azure-AIGEN-demos/blob/main/auto_tagging_cohere/auto_tagging_cohere_embed4_azure.ipynb
+
 ### New content (06 February 2026)
 
 | Item | Description | Link |
