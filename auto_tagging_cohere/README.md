@@ -2,6 +2,8 @@
 
 This folder contains a Jupyter notebook that demonstrates **automatic image tagging** using **Cohere Embed v4** (multimodal embeddings) deployed through **Azure AI Foundry / Microsoft Foundry**.
 
+<img src="heatmap.png">
+
 Notebook:
 - [`auto_tagging_cohere_embed4_azure.ipynb`](./auto_tagging_cohere_embed4_azure.ipynb)
 
