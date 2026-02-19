@@ -1,0 +1,26 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "images": [],
+      "markdown": "# Contoso\n\nContoso\n123 Main Street\nRedmond, WA 98052\n\n987-654-3210\n\n6/10/2019 13:59\nSales Associate: Paul\n\n|  |   |\n| --- | --- |\n|  1 Cappuccino | $2.20  |\n|  1 BACON & EGGS\nSunny-side-up | $9.5  |\n|  Sub-Total | $11.70  |\n|  Tax | $1.17  |\n|  Tip | $1.63  |\n|  Total | $14.50  |",
+      "footer": null,
+      "header": null,
+      "hyperlinks": [],
+      "tables": [],
+      "dimensions": {
+        "dpi": 200,
+        "height": 893,
+        "width": 1200
+      }
+    }
+  ],
+  "model": "mistral-document-ai-2512",
+  "document_annotation": null,
+  "usage_info": {
+    "pages_processed": 1,
+    "doc_size_bytes": 500950,
+    "pages_processed_annotation": 0
+  },
+  "content_filter_results": null
+}
