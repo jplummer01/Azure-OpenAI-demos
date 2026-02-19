@@ -18,6 +18,12 @@ Microsoft Foundry unifies agents, models, and tools under a single management gr
 
 ## Latest Content
 
+### New content (19 February 2026)
+
+| Item | Description | Link |
+| --- | --- | --- |
+| 🔥 mistral-document-ai-2512| mistral-document-ai-2512 | https://github.com/retkowsky/Azure-AIGEN-demos/tree/main/mistral-document-ai-2512
+
 ### New content (16 February 2026)
 
 | Item | Description | Link |
@@ -225,7 +231,7 @@ Microsoft Foundry unifies agents, models, and tools under a single management gr
 | --- | --- |
 | Name | Serge Retkowsky |
 | Created | 05 September 2023 |
-| Last updated | 16 February 2026 |
+| Last updated | 19 February 2026 |
 | Email | serge.retkowsky@microsoft.com |
 | LinkedIn | https://www.linkedin.com/in/serger/ |
 | Medium publications | https://medium.com/@sergems18/ |
