@@ -45,49 +45,6 @@ A comprehensive document-AI pipeline covering:
 - An **Azure subscription**
 - Access to **Microsoft Foundry** (Azure AI Foundry)
 - A deployed **mistral-document-ai-2512** endpoint  
-  - Either a **Foundry resource endpoint** (`*.services.ai.azure.com` or `*.cognitiveservices.azure.com`)
-  - Or a **serverless inference endpoint** (`*.inference.ai.azure.com`)
-
-### Local environment
-
-- Python 3.10+
-- Jupyter (JupyterLab, VS Code, or classic Notebook)
-- The packages listed in [`requirements.txt`](./requirements.txt) (or install the essentials below)
-
-Key packages used in the notebook:
-
-```
-azure-identity
-python-dotenv
-requests
-pandas
-pydantic
-```
-
----
-
-## Setup
-
-### 1. Configure your endpoint
-
-Copy `azure.env` and fill in your endpoint URL:
-
-```bash
-AZURE_MISTRAL_DOC_AI_ENDPOINT = "https://<your-resource>.services.ai.azure.com"
-```
-
-### 2. Authentication
-
-The notebook uses **Microsoft Entra ID (DefaultAzureCredential)** — no API key needed.  
-Make sure the identity running the notebook has the appropriate RBAC role on the Foundry resource (e.g., **Cognitive Services User**).
-
-### 3. Run the notebook
-
-```bash
-jupyter lab mistral_document_ai_2512_azure_foundry.ipynb
-```
-
----
 
 ## Notebook structure
 
@@ -124,14 +81,6 @@ The [`documents/`](./documents) folder contains sample files used in the noteboo
 ## Output
 
 Results are saved to the [`results/`](./results) folder:
-
-| File | Content |
-|------|---------|
-| `ocr1.json` … `ocr7.json` | Raw JSON OCR responses |
-| `content1.md` … `content7.md` | Extracted Markdown text |
-| `annotation10.json` | Structured research paper metadata |
-| `invoice.json` | Structured invoice data |
-| `img-*.jpeg` | Extracted page images (BBox annotation demo) |
 
 ---
 
