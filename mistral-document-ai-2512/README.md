@@ -80,7 +80,7 @@ The [`documents/`](./documents) folder contains sample files used in the noteboo
 
 ## Output
 
-Results are saved to the [`results/`](./results) folder:
+Results are saved to the [`results/`](./results) folder
 
 ---
 
