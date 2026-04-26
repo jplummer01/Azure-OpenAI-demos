@@ -128,12 +128,17 @@ A few assets you can preview directly:
 - Animation example: [`animation.gif`](./animation.gif)
 - Selected outputs from `./images`:
 
-| Example | Preview |
-| --- | --- |
-| Flowchart | ![flowchart](./images/flowchart_20260424_102447.png) |
-| Manga style | ![manga](./images/manga_20260424_101011.png) |
-| Product / marketing | ![banner](./images/banner_20260424_130302.png) |
-| Storyboard (panel 1) | ![storyboard panel 1](./images/storyboard_panel1_20260425_121048.png) |
+### Flowchart
+![flowchart](./images/flowchart_20260424_102447.png)
+
+### Manga style
+![manga](./images/manga_20260424_101011.png)
+
+### Product / marketing
+![banner](./images/banner_20260424_130302.png)
+
+### Storyboard (panel 1)
+![storyboard panel 1](./images/storyboard_panel1_20260425_121048.png)
 
 More examples are available in [`./images`](./images).
 
