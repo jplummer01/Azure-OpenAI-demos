@@ -1,4 +1,4 @@
-# GPT-Image-2 demos (Python notebooks)
+# GPT-Image-2 demos using Microsoft Foundry
 
 ![GPT-Image-2 banner](https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTAwNTcxLTZ4WmdLeQ?revision=9&image-dimensions=2000x2000&constrain-image=true)
 
