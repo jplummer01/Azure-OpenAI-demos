@@ -123,24 +123,16 @@ Open the notebooks in order:
 
 ## Gallery (examples)
 
-A few assets you can preview directly:
-
 - Animation example: [`animation.gif`](./animation.gif)
-- Selected outputs from `./images`:
+- Example outputs live in [`./images`](./images)
 
-### Flowchart
-![flowchart](./images/flowchart_20260424_102447.png)
+---
 
-### Manga style
-![manga](./images/manga_20260424_101011.png)
+## Microsoft / Azure resources
 
-### Product / marketing
-![banner](./images/banner_20260424_130302.png)
-
-### Storyboard (panel 1)
-![storyboard panel 1](./images/storyboard_panel1_20260425_121048.png)
-
-More examples are available in [`./images`](./images).
+- Introducing OpenAI's GPT-image-2 in Microsoft Foundry: https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-openais-gpt-image-2-in-microsoft-foundry/4500571
+- Microsoft Foundry model catalog: https://ai.azure.com/catalog/models
+- Azure AI Foundry documentation (image generation tool): https://github.com/MicrosoftDocs/azure-ai-docs/blob/main/articles/foundry/agents/how-to/tools/image-generation.md
 
 ---
 
