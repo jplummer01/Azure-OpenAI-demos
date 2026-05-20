@@ -4,7 +4,7 @@
 
 ## Model: `gpt-image-2`
 
-`gpt-image-2` is an image generation model that can create and transform images from natural-language prompts. In these notebooks, it’s used from **Azure AI Foundry / Azure OpenAI** to demonstrate practical workflows such as:
+`gpt-image-2` is an image generation model that can create and transform images from natural-language prompts. In these notebooks, it’s used from **Azure AI Foundry / Azure OpenAI** to demonstrate:
 - **Text-to-image generation** (prompt → image)
 - **Prompt iteration for style/composition control**
 - **Image variation / editing-style flows** (where supported by your deployment and the notebook code)
@@ -16,10 +16,11 @@
 
 This folder contains **Python/Jupyter notebooks** showcasing **`gpt-image-2`** capabilities using **Azure AI Foundry / Azure OpenAI**.
 
-> Notebooks are split into 3 parts:
+> Notebooks are split into 4 parts:
 - **Part 1**: first steps + core image generation
 - **Part 2**: more scenarios / prompt patterns
 - **Part 3**: advanced scenarios and end-to-end examples
+- **Part 4**: additional image generation and transformation scenarios
 
 ---
 
@@ -29,6 +30,8 @@ This folder contains **Python/Jupyter notebooks** showcasing **`gpt-image-2`** c
 - [`gpt image 2 with Microsoft Foundry - Part 1.ipynb`](./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%201.ipynb)
 - [`gpt image 2 with Microsoft Foundry - Part 2.ipynb`](./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%202.ipynb)
 - [`gpt image 2 with Microsoft Foundry - Part 3.ipynb`](./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%203.ipynb)
+- [`gpt image 2 with Microsoft Foundry - Part4.ipynb`](./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part4.ipynb)
+- [`gpt image 2 with Microsoft Foundry - Quick test.ipynb`](./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Quick%20test.ipynb)
 
 ### Configuration
 - [`azure.env`](./azure.env) – environment variable template (copy/rename it to `.env` or load it in your notebook environment)
@@ -110,6 +113,7 @@ Open the notebooks in order:
 1. **Part 1**
 2. **Part 2**
 3. **Part 3**
+4. **Part 4**
 
 ---
 
