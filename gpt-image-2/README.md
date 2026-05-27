@@ -21,7 +21,7 @@ This folder contains **Python/Jupyter notebooks** showcasing **`gpt-image-2`** c
 - **Part 2**: more scenarios / prompt patterns
 - **Part 3**: advanced scenarios and end-to-end examples
 - **Part 4**: additional image generation and transformation scenarios
-- **Part 5**: latest notebook with extra scenarios and examples
+- **Part 5**: object detection and segmentation examples
 
 ---
 
@@ -31,7 +31,7 @@ This folder contains **Python/Jupyter notebooks** showcasing **`gpt-image-2`** c
 - [`gpt image 2 with Microsoft Foundry - Part 1.ipynb`](./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%201.ipynb)
 - [`gpt image 2 with Microsoft Foundry - Part 2.ipynb`](./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%202.ipynb)
 - [`gpt image 2 with Microsoft Foundry - Part 3.ipynb`](./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%203.ipynb)
-- [`gpt image 2 with Microsoft Foundry - Part4.ipynb`](./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part4.ipynb)
+- [`gpt image 2 with Microsoft Foundry - Part4.ipynb`](./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%204.ipynb)
 - [`gpt image 2 with Microsoft Foundry - Part 5.ipynb`](./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%205.ipynb)
 - [`gpt image 2 with Microsoft Foundry - Quick test.ipynb`](./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Quick%20test.ipynb)
 
