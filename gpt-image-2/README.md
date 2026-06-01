@@ -28,12 +28,12 @@ This folder contains **Python/Jupyter notebooks** showcasing **`gpt-image-2`** c
 ## Contents
 
 ### Notebooks
-- [`gpt image 2 with Microsoft Foundry - Part 1.ipynb`]([./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%201.ipynb](https://nbviewer.org/github/retkowsky/Azure-AIGEN-demos/blob/main/gpt-image-2/gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%201.ipynb))
-- [`gpt image 2 with Microsoft Foundry - Part 2.ipynb`]([./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%202.ipynb](https://nbviewer.org/github/retkowsky/Azure-AIGEN-demos/blob/main/gpt-image-2/gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%202.ipynb))
-- [`gpt image 2 with Microsoft Foundry - Part 3.ipynb`]([./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%203.ipynb](https://nbviewer.org/github/retkowsky/Azure-AIGEN-demos/blob/main/gpt-image-2/gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%203.ipynb))
-- [`gpt image 2 with Microsoft Foundry - Part 4.ipynb`]([./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%204.ipynb](https://nbviewer.org/github/retkowsky/Azure-AIGEN-demos/blob/main/gpt-image-2/gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%204.ipynb))
-- [`gpt image 2 with Microsoft Foundry - Part 5.ipynb`]([./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%205.ipynb](https://nbviewer.org/github/retkowsky/Azure-AIGEN-demos/blob/main/gpt-image-2/gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%205.ipynb))
-- [`gpt image 2 with Microsoft Foundry - Quick test.ipynb`](./gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Quick%20test.ipynb)
+- [`gpt image 2 with Microsoft Foundry - Part 1.ipynb`](https://nbviewer.org/github/retkowsky/Azure-AIGEN-demos/blob/main/gpt-image-2/gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%201.ipynb)
+- [`gpt image 2 with Microsoft Foundry - Part 2.ipynb`](https://nbviewer.org/github/retkowsky/Azure-AIGEN-demos/blob/main/gpt-image-2/gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%202.ipynb)
+- [`gpt image 2 with Microsoft Foundry - Part 3.ipynb`](https://nbviewer.org/github/retkowsky/Azure-AIGEN-demos/blob/main/gpt-image-2/gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%203.ipynb)
+- [`gpt image 2 with Microsoft Foundry - Part 4.ipynb`](https://nbviewer.org/github/retkowsky/Azure-AIGEN-demos/blob/main/gpt-image-2/gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%204.ipynb)
+- [`gpt image 2 with Microsoft Foundry - Part 5.ipynb`](https://nbviewer.org/github/retkowsky/Azure-AIGEN-demos/blob/main/gpt-image-2/gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Part%205.ipynb)
+- [`gpt image 2 with Microsoft Foundry - Quick test.ipynb`](https://nbviewer.org/github/retkowsky/Azure-AIGEN-demos/blob/main/gpt-image-2/gpt%20image%202%20with%20Microsoft%20Foundry%20-%20Quick%20test.ipynb)
 
 ### Configuration
 - [`azure.env`](./azure.env) – environment variable template (copy/rename it to `.env` or load it in your notebook environment)
